@@ -3,6 +3,7 @@
   "license": "AGPL-3.0",
   "private": true,
   "type": "module",
+  "name": "remix",
   "main": "dist/index.js",
   "engines": {
     "node": ">17.x"
